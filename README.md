@@ -1,5 +1,6 @@
 # Скрипт построения дерева указанной директории
 Пример работы сохраненный в файле dirr.txt:
+```
 /home/kukuruzka-vitya/CODE/code_python/parsing/lib/
 ├── .git
 ├── README.md
@@ -40,4 +41,4 @@
 ├── updater_chromedriver.py
 ├── useful_functions.py
 ├── using_proxy.py
-├── webdriver_cloudflare_bypass.py
+├── webdriver_cloudflare_bypass.py```
